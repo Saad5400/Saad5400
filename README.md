@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="https://saad5400.github.io//images/s-logo.svg" width="100%">
+<img src="https://saad5400.github.io/images/s-logo.svg" width="100%">
 
 🔭 I’m currently working on [El Cato website](https://elcato.azurewebsites.net/) 
 
