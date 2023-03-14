@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [El Cato website](https://elcato.azurewebsites.net/)
+🔭 I’m currently working on [El Cato website](https://elcato.azurewebsites.net/) 
+
+<img src="https://elcato.azurewebsites.net/images/glitchedCat.png" width="150" title="hover text">
 
 🌱 I’m currently learning ASP.NET Core
 
