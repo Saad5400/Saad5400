@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<img src="https://saad5400.github.io//images/s-logo.svg" width="100%">
+
 🔭 I’m currently working on [El Cato website](https://elcato.azurewebsites.net/) 
 
-<img src="https://elcato.azurewebsites.net/images/glitchedCat.png" width="150" title="hover text">
+<img src="https://elcato.azurewebsites.net/images/glitchedCat.png" width="150">
 
 🌱 I’m currently learning ASP.NET Core
 
