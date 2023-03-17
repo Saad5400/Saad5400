@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [El Cato website](https://elcato.azurewebsites.net/) 
 
-<img src="https://elcato.azurewebsites.net/images/glitchedCat.png" width="150">
+<img src="https://elcato.azurewebsites.net/images/glitchedCat.png" width="10%">
 
 🌱 I’m currently learning ASP.NET Core
 
