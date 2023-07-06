@@ -1,15 +1,4 @@
 
-<a href="https://github.com/jstrieb/github-stats">
-
-<img src="https://saad5400.github.io/-github-stats/generated/overview.svg" />
-
-<img src="https://saad5400.github.io/-github-stats/generated/languages.svg" />
-
-
-</a>
-
-
-
 🔭 I’m currently working on [El Cato website](https://elcato.azurewebsites.net/) 
 
 <img src="https://elcato.azurewebsites.net/images/glitchedCat.png" width="10%">
