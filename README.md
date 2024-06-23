@@ -28,3 +28,17 @@ https://elcato.sb.sa/
 
 # Buraq
 
+https://buraqest.com/
+
+[Recording](https://github.com/Saad5400/Saad5400/assets/86385454/f1420859-7579-4d82-a5ca-c389427ed71d)
+![image](https://github.com/Saad5400/Saad5400/assets/86385454/e0a545e5-493f-4c07-bcbb-fba158860379)
+![image](https://github.com/Saad5400/Saad5400/assets/86385454/f72b9042-4a8e-4da1-8adc-d30740ab0ad6)
+![image](https://github.com/Saad5400/Saad5400/assets/86385454/db9c9b10-26ce-4e47-b106-499ca08a8879)
+![image](https://github.com/Saad5400/Saad5400/assets/86385454/6ab98dd8-e3f3-413b-bbb3-c96b8017a1cb)
+
+# Web Chat
+
+https://webchat5400.azurewebsites.net/
+
+![image](https://github.com/Saad5400/Saad5400/assets/86385454/82a65ada-c009-40f0-851a-6c0a6793d7da)
+![image](https://github.com/Saad5400/Saad5400/assets/86385454/2374c19f-b384-4ee5-8150-431e1ba329f4)
