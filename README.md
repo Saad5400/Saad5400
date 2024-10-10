@@ -11,6 +11,8 @@ Latest Projects:
 ![image](https://github.com/user-attachments/assets/e30c4c51-e29d-47a2-a409-9d9495590113)
 ![image](https://github.com/user-attachments/assets/d3179327-a4ec-41dd-b6ab-0448faad4485)
 ![image](https://github.com/user-attachments/assets/b7ff94f6-efd2-459e-a8d4-f63aacaba068)
+![image](https://github.com/user-attachments/assets/1a525c51-3d84-4854-942c-5aeeb20a817c)
+![image](https://github.com/user-attachments/assets/c23c568f-ccda-46b6-b6f8-c29acec9f864)
 
 
 
