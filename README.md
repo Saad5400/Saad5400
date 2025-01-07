@@ -2,6 +2,8 @@
 * saad@sb.sa
 * [+966 536 439 394](https://wa.me/+966536439394)
 
+![Saad's GitHub stats](https://github-stats-api-flax.vercel.app/api?username=Saad5400&show_icons=true&theme=radical)
+
 Latest Projects:
 
 # DM Flowers (WIP)
