@@ -4,11 +4,13 @@
 
 ![Saad's GitHub stats](https://github-stats-api-flax.vercel.app/api?username=Saad5400&show_icons=true&theme=radical&rank_icon=percentile)
 
-[![Top Langs](https://github-stats-api-flax.vercel.app/api/top-langs/?username=Saad5400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-api-flax.vercel.app/api/top-langs/?username=Saad5400&hide=html,css,tex)](https://github.com/anuraghazra/github-readme-stats)
 
 Latest Projects:
 
-# DM Flowers (WIP)
+# DM Flowers
+
+https://dmflowers.sa/
 
 An E-Commerce for the DM flowers store. Including inventory and process managemnt.
 
